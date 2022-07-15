@@ -43,7 +43,7 @@ The code compile with gcc -Wall -Werror -Wextra -pedantic *.c command, also it's
 
 
 Files
-holberton.h
+main.h
 _printf.c
 _putchar.c
 print_str.c
